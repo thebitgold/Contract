@@ -1,0 +1,2 @@
+# Contract
+ TheBitGold(BGT) Contract
